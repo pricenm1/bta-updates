@@ -1,5 +1,5 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.10",
   "downloadUrl": "https://bridge-traveler-analyzer.lemonsqueezy.com/my-orders",
   "notes": "Fixes E-W score display in board tables and scorecard."
 }
