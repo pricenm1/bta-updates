@@ -1,5 +1,5 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders",
   "notes": "Version 0.1.13: more accurate reports. Bidding sequences are checked and repaired against your actual boards, and statements about who declared and which results were top scores are checked against the results."
 }
