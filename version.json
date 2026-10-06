@@ -1,5 +1,5 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.13",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders",
-  "notes": "Version 0.1.11: more reliable reports. The App now checks the bidding and card claims in each analysis against your actual boards and corrects or removes anything that doesn't match."
+  "notes": "Version 0.1.13: more accurate reports. Bidding sequences are checked and repaired against your actual boards, and statements about who declared and which results were top scores are checked against the results."
 }
